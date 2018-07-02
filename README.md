@@ -1,4 +1,9 @@
 # CZHAlertView
+
+![公司的项目.png](https://upload-images.jianshu.io/upload_images/6709174-4b217cb5f07b1f6f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+公司的项目，求支持，如果发现什么问题，可以留言反应，感激不尽
+
 ios CZHAlertView 类似系统UIAlertController封装
 
 ![QQ20180427.gif](https://upload-images.jianshu.io/upload_images/6709174-1b896ec443f1c35a.gif?imageMogr2/auto-orient/strip)
